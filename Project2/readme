@@ -5,7 +5,7 @@ Python Files:
 2) WeatherinPandas.py : Formats the 7 day forecast in a data frame and calculates the average temperature of the week.
 3) Matplotlib.py : Plots the weather (highs/lows) for 7 days on a line graph. 
 
-Doc Files:
+PDF Files:
 1) BeautifulSoup_WriteUp_Proj2Pt1 : Write-up on the BeautifulSoup library
 2) BeautifulSoup_WriteUp_Proj2Pt2 : Write-up on the Pandas library
 3) BeautifulSoup_WriteUp_Proj2Pt3 : Write-up on the Matplotlib library
