@@ -6,5 +6,5 @@ Budgeroo is a friendly budgeting tool which allows a user to:
 This folder contains the following files:
 
 Mainframe.py : The main python file to run Budgeroo.
-Sheet1.csv : The .csv file to be read by Budgeroo's frequency analyzer and expense analyzer.
+Expense data - Sheet1.csv : The .csv file to be read by Budgeroo's frequency analyzer and expense analyzer.
 
